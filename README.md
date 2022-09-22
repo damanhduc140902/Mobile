@@ -11,3 +11,4 @@
 
 - Tuần 3: Tạo ứng dụng sử dụng 5 loại điều khiển thường dùng
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80797626/191794738-d660492c-c37c-4d2c-8dce-e4f91e4e94d1.gif)
