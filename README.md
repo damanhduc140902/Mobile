@@ -17,7 +17,7 @@ Nguyễn Tương Quyết - 20021423
 ### Tuần 3: Tạo ứng dụng sử dụng ít nhất 5 loại điều khiển thường dùng
 
 - To-do List phiên bản đơn giản
-- Chức năng: Tạo hoạt động, đánh dấu tiến độ hoạt động, chỉnh sửa hoạt động, xóa hoạt động
+- Chức năng: thêm, xóa, chỉnh sửa, đánh dấu độ hoàn thành
 - Các loại điều khiển được sử dụng: MaterialApp, Scaffold, AppBar, FloatingActionButton, ListView, ListTile, TextButton, AlertDialog, Column, TextFormField, Form, PopupMenuButton, PopupMenuItem, Checkbox, Text, SizedBox
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80797626/191796080-f3f8c72c-a516-4137-9319-45042d738d97.gif)
