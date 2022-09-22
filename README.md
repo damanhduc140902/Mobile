@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/80798145/190578477-b3df773d-9a59-4421-88d7-bd95aca2dbfd.png)
 
 - Tuần 3: Tạo ứng dụng sử dụng ít nhất 5 loại điều khiển thường dùng
-  To-do list phiên bản đơn giản 
-  Các loại điều khiển được sử dụng: MaterialApp, Scaffold, AppBar, floating action button, ListView, ListTile, TextButton, AlertDialog, Column, TextFormField, Form, PopupMenuButton, PopupMenuItem, Checkbox, Text, SizedBox
+To-do List phiên bản đơn giản
+Các loại điều khiển được sử dụng: MaterialApp, Scaffold, AppBar, floating action button, ListView, ListTile, TextButton, AlertDialog, Column, TextFormField, Form, PopupMenuButton, PopupMenuItem, Checkbox, Text, SizedBox
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80797626/191796080-f3f8c72c-a516-4137-9319-45042d738d97.gif)
