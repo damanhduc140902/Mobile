@@ -25,8 +25,6 @@ Nguyễn Tương Quyết - 20021423
 ### Tuần 4: Code một số giao diện theo figma
 
 ![image](https://user-images.githubusercontent.com/80797626/197123228-f94b9194-3407-4e1b-8eba-2b97965b498b.png)
-
 ![image](https://user-images.githubusercontent.com/80797626/197123276-182c2c4f-089c-429a-99d9-142e48467ac1.png)
-
 ![image](https://user-images.githubusercontent.com/80797626/197123338-5ae59b49-34e9-4e62-af91-dcf9bc318515.png)
 
