@@ -28,3 +28,9 @@ Nguyễn Tương Quyết - 20021423
 ![image](https://user-images.githubusercontent.com/80797626/197123276-182c2c4f-089c-429a-99d9-142e48467ac1.png)
 ![image](https://user-images.githubusercontent.com/80797626/197123338-5ae59b49-34e9-4e62-af91-dcf9bc318515.png)
 
+### Tuần 5: Tiếp tục hoàn thiện giao diện
+
+![image](https://user-images.githubusercontent.com/80797626/197126715-fef48ee8-2a9d-48a2-890a-5564e70ad332.png)
+![image](https://user-images.githubusercontent.com/80797626/197126763-9f4eaa81-7fdb-4224-981a-520a9586b60b.png)
+
+
