@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:netflix_clone/feature/loginscreen/loginscreen.dart';
 import 'core/init/theme/app_theme.dart';
 import 'feature/choose_account_page/view/choose_account.dart';
 import 'feature/splash_screen/view/splash_screen.dart';
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: AppTheme.instance.theme,
       debugShowCheckedModeBanner: false,
-      home: SplashScreen(),
+      home: WelcomeScreen(),
 
     );
   }
