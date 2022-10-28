@@ -33,4 +33,10 @@ Nguyễn Tương Quyết - 20021423
 ![image](https://user-images.githubusercontent.com/80797626/197126715-fef48ee8-2a9d-48a2-890a-5564e70ad332.png)
 ![image](https://user-images.githubusercontent.com/80797626/197126763-9f4eaa81-7fdb-4224-981a-520a9586b60b.png)
 
+### Tuần 6+7: Các màn hình làm thêm
+![z3835901442617_17d790f18ad9b123de3776c70cdfc282](https://user-images.githubusercontent.com/80798145/198520449-bb52d783-c578-4073-8923-5afc9c77ae51.jpg)
+![z3835902217287_e9a9ce38c617d17c118b216fce2fc533](https://user-images.githubusercontent.com/80798145/198520459-675c4133-9d73-4090-bfa9-d46631fcd019.jpg)
+![z3835904007242_1fe40b5487be4ebd9cde62357b232ce3](https://user-images.githubusercontent.com/80798145/198520474-5a3830ae-93ca-44ac-837a-42ac4c9e8d58.jpg)
+![z3835904853043_f4ea3179cbd2156eb7ad71628ce2fe13](https://user-images.githubusercontent.com/80798145/198520495-621bc4d2-1e15-4076-af73-86ebd44d6f51.jpg)
 
+Đã tạo tương tác giữa các màn hình trên
