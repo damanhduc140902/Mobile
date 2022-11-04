@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "452081077179",
+    "project_id": "money-manager-6d33a",
+    "storage_bucket": "money-manager-6d33a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452081077179:android:5e4799d6a1a0a2654ed29e",
+        "android_client_info": {
+          "package_name": "com.example.money_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452081077179-kqlhadivu51j18tcnslnugpjs0uh3m4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3OFFvh33legvv0QqnxaNquYHOtDDQ-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452081077179-kqlhadivu51j18tcnslnugpjs0uh3m4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452081077179-s4hdcu4fgek5kolem2piuv1oq58nchh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leftPane"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
