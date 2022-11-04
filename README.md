@@ -23,3 +23,14 @@ Nguyễn Tương Quyết - 20021423
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80797626/191796080-f3f8c72c-a516-4137-9319-45042d738d97.gif)
 
 ### Tuần 4+5+6: Code màn hình các giao diện và tạo tương tác
+![image](https://user-images.githubusercontent.com/80798145/199896908-2b40ed1c-b228-4e28-9503-38e142c3bd73.png)
+![image](https://user-images.githubusercontent.com/80798145/199896975-58a29f65-57b7-420c-8f2f-09ef693a70d2.png)
+![image](https://user-images.githubusercontent.com/80798145/199897008-e41d611d-83dc-4fd5-a78c-4f5e87ad7048.png)
+![image](https://user-images.githubusercontent.com/80798145/199897055-7412f83a-e021-4d12-9e0c-622d2bb19f5c.png)
+![image](https://user-images.githubusercontent.com/80798145/199897095-34e70bcb-f301-420b-aa01-eae088a00693.png)
+![image](https://user-images.githubusercontent.com/80798145/199897128-f1a96b5d-9933-42bf-839c-ea1f9205134c.png)
+![image](https://user-images.githubusercontent.com/80798145/199897252-5d8f2941-b763-43c5-ac46-6c4656e47c00.png)
+![image](https://user-images.githubusercontent.com/80798145/199897285-ed5d9b7b-efdb-4bb6-ac83-de707af51fd8.png)
+![image](https://user-images.githubusercontent.com/80798145/199897313-0e3b008a-d1f9-4557-a887-cb89356368e8.png)
+![image](https://user-images.githubusercontent.com/80798145/199897449-35be1694-e815-47d0-ab6e-2ab825978e7c.png)
+
