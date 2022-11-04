@@ -34,3 +34,25 @@ Nguyễn Tương Quyết - 20021423
 ![image](https://user-images.githubusercontent.com/80798145/199897313-0e3b008a-d1f9-4557-a887-cb89356368e8.png)
 ![image](https://user-images.githubusercontent.com/80798145/199897449-35be1694-e815-47d0-ab6e-2ab825978e7c.png)
 
+### Tuần 7+8: Kiểm thử monkey và đo độ bao phủ
+
+- Kiểm thử monkey
+
+![image](https://user-images.githubusercontent.com/80797626/199900388-dd44ae41-28ca-4c38-acff-0afc10da65e1.png)
+
+- Đo độ bao phủ
+
+Nhóm đã viết code đo độ bao phủ 
+
+![image](https://user-images.githubusercontent.com/80797626/199901019-e0057dec-e19b-496f-9f3c-a03f64787bd4.png)
+![image](https://user-images.githubusercontent.com/80797626/199901342-e4ef2621-1e52-465c-9302-133ac998a89b.png)
+
+
+Tuy nhiên khi chạy test thì vẫn đang bị lỗi. Nhóm đang cố khắc phục
+
+![image](https://user-images.githubusercontent.com/80797626/199901764-e830137e-367f-4391-8ca6-34ea16693800.png)
+
+
+
+
+
