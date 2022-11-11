@@ -50,12 +50,16 @@ Tuy nhiên khi chạy test thì vẫn đang bị lỗi. Nhóm đang cố khắc 
 
 ### Tuần 10: Kiểm tra giữa kỳ
 
-### Tuần 11: Cập nhật thêm các màn giao diện đã hoàn thành
+### Tuần 11: 
+
+- Cập nhật thêm các màn giao diện đã hoàn thành
 
 ![image](https://user-images.githubusercontent.com/80798145/199897285-ed5d9b7b-efdb-4bb6-ac83-de707af51fd8.png)
 ![image](https://user-images.githubusercontent.com/80798145/199897313-0e3b008a-d1f9-4557-a887-cb89356368e8.png)
 ![image](https://user-images.githubusercontent.com/80798145/199897252-5d8f2941-b763-43c5-ac46-6c4656e47c00.png)
 ![image](https://user-images.githubusercontent.com/80798145/199897449-35be1694-e815-47d0-ab6e-2ab825978e7c.png)
+
+- Tương tác giữa các màn
 
 
 
