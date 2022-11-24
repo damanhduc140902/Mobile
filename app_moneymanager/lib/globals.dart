@@ -1,5 +1,5 @@
 library cvconnect.globals;
 
-import 'components/ScheduleIndex.dart';
+import 'components/schedule_index.dart';
 
 List<IndexSchedule>? listAccount;

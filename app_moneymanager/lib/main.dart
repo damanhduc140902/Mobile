@@ -8,15 +8,15 @@ import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:money_manager/components/Account.dart';
-import 'package:money_manager/components/Transaction.dart';
+import 'package:money_manager/components/account.dart';
+import 'package:money_manager/components/transaction.dart';
 import 'package:provider/provider.dart';
 
-import 'components/Category.dart';
+import 'components/category.dart';
 import 'firebase_options.dart';
-import 'helpers/ChangeLanguage.dart';
-import 'screens/Authentication.dart';
-import 'screens/HomeScreen.dart';
+import 'helpers/change_language.dart';
+import 'screens/authentication.dart';
+import 'screens/home_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

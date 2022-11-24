@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../components/NavigationDrawerWidget.dart';
+import '../components/navigation_drawer.dart';
 
 class PeoplePage extends StatelessWidget {
   @override

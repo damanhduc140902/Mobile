@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:money_manager/main.dart';
-import 'package:money_manager/screens/ContactScreen.dart';
+import 'package:money_manager/screens/contact_screen.dart';
 
 class UserPage extends StatelessWidget {
   final padding = const EdgeInsets.symmetric(horizontal: 16);

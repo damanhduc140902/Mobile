@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import '../components/NavigationDrawerWidget.dart';
-import '../components/SmallHeader.dart';
-import '../components/TitleText1.dart';
+import '../components/navigation_drawer.dart';
+import '../components/small_header.dart';
+import '../components/title_text_1.dart';
 
 class Currency extends StatelessWidget {
   Currency({Key? key, required this.title}) : super(key: key);

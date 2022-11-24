@@ -5,87 +5,47 @@
 // gestures. You can also use WidgetTester to find child widgets in the widget
 // tree, read text, and verify that the values of widget properties are correct.
 
-//import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:money_manager/components/ButtonPrimary.dart';
+import 'package:money_manager/components/category.dart';
+
 import 'package:money_manager/main.dart';
-import 'package:money_manager/screens/AddAccountScreen.dart';
-import 'package:money_manager/screens/CategoryScreen.dart';
-import 'package:money_manager/screens/LoginScreen.dart';
-import 'package:money_manager/screens/RegisterScreen.dart';
+import 'package:money_manager/main1.dart';
+import 'package:money_manager/screens/category_screen.dart';
+import 'package:money_manager/screens/contact_screen.dart';
+import 'package:money_manager/screens/exchange_money.dart';
+import 'package:money_manager/screens/budget_screen.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  // testWidgets('CategoryScreen', (WidgetTester tester) async {
+  // testWidgets('HomeScreen', (WidgetTester tester) async {
   //   Widget testWidget = new MediaQuery(
   //       data: new MediaQueryData(),
   //       child: new MaterialApp(
-  //         home: new CategoryScreen(title: 'Ngân sách'),
+  //         home: new HomeScreen(title: 'Ngân sách'),
   //       ));
   //   await tester.pumpWidget(testWidget);
-  //   expect(find.text('Thu nhập'), findsOneWidget);
   // });
 
-  group('Category screen', () {
-    Widget testWidget;
-    testWidget = const MediaQuery(
-      data: MediaQueryData(),
-      child: MaterialApp(home: CategoryScreen(title: 'Chi phí')),
-    );
-
-    testWidgets('Test Chi phí button', (tester) async {
-      await tester.pumpWidget(testWidget);
-      Finder result;
-      result = find.text('Chi phí');
-      expect(result, findsOneWidget);
-      await tester.tap(find.text('Chi phí'));
-    });
-
-    testWidgets('Test Thu nhập button', (tester) async {
-      await tester.pumpWidget(testWidget);
-      Finder result;
-      result = find.text('Thu nhập');
-      expect(result, findsOneWidget);
-      await tester.tap(find.text('Thu nhập'));
-    });
+  testWidgets('CategoryScreen', (WidgetTester tester) async {
+    Widget testWidget = new MediaQuery(
+        data: new MediaQueryData(),
+        child: new MaterialApp(
+          home: new CategoryScreen(title: 'Danh mục'),
+        ));
+    await tester.pumpWidget(testWidget);
+    expect(find.text('Chi phí'), findsOneWidget);
   });
 
-  group('Login screen', () {
-    Widget testWidget = const MediaQuery(
-      data: MediaQueryData(),
-      child: MaterialApp(home: RegisterScreen(title: 'Login')),
-    );
-
-    testWidgets('Test login button #1', (tester) async {
-      await tester.pumpWidget(testWidget);
-      await tester.tap(find.byType(IconButton).first);
-    });
-
-    testWidgets('Test login button #2', (tester) async {
-      await tester.pumpWidget(testWidget);
-      await tester.tap(find.byType(ButtonPrimary).first);
-    });
-  });
-
-  group('AddAccountScreen', () {
-    Widget testWidget = const MediaQuery(
-      data: MediaQueryData(),
-      child: MaterialApp(
-          home: AddAccountScreen(
-        title: 'Addaccount',
-      )),
-    );
-
-    testWidgets('Test them button', (tester) async {
-      await tester.pumpWidget(testWidget);
-      await tester.tap(find.byType(ButtonPrimary).first);
-    });
-
-    testWidgets('Test bieu tuong', (tester) async {
-      await tester.pumpWidget(testWidget);
-      Finder result = find.text('Biểu tượng');
-      expect(result, findsOneWidget);
-      await tester.tap(find.text('Biểu tượng'));
-    });
+  testWidgets('CategoryScreen', (WidgetTester tester) async {
+    Widget testWidget = new MediaQuery(
+        data: new MediaQueryData(),
+        child: new MaterialApp(
+          home: new ContactScreen(title: 'Liên hệ'),
+        ));
+    await tester.pumpWidget(testWidget);
+    expect(find.text('Liên hệ'), findsOneWidget);
   });
 }

@@ -4,9 +4,9 @@ import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:money_manager/main.dart';
-import 'package:money_manager/screens/HomeScreen.dart';
+import 'package:money_manager/screens/home_screen.dart';
 import 'package:provider/provider.dart';
-import '../components/TitleText1.dart';
+import '../components/title_text_1.dart';
 import '/src/widgets.dart';
 
 enum ApplicationLoginState {

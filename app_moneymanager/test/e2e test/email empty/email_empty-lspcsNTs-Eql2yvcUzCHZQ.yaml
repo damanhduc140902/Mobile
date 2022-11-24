@@ -1,0 +1,133 @@
+id: vX2Wk2_hoE-ESuhjH6-_XQ
+projectId: wNrK8ch0QE2VECljT31miA
+projectName: Quản lý tiền
+created: 2022-05-15T07:09:01.2884825Z
+owner: 19021397 Phạm Văn Vũ
+protocol: 1
+tests:
+- id: lspcsNTs-Eql2yvcUzCHZQ
+  name: email empty
+  description: ''
+  platform: Android
+  type: Mobile
+  driverType: Appium_Android
+  version: 0.1
+  creationDate: 2022-05-15T06:55:09.0000000
+  modificationDate: 2022-05-15T06:56:13.0000000
+  settings:
+    automationAssistant: true
+    deviceId: R58M53DXESV
+    appId: ZTaviOL_cUaiaHevFGMFVA
+    stepSleepTime: 500
+    stepTimeout: 15000
+    stepSleepTiming: Before
+    stepFailureBehaviorType: Abort
+    stepTakeScreenshotConditionType: Failure
+  application:
+    id: ZTaviOL_cUaiaHevFGMFVA
+    androidActivity: com.example.money_manager.MainActivity
+    androidPackage: com.example.money_manager
+    name: Quản lý tiền
+    platform: Android
+  steps:
+  - id: 0sUnC2OJc0qXcnPZBgvj8A
+    comments: Clear application data and restart (Auto-generated)
+    enabled: true
+    invertResult: false
+    order: 1
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 1b89acc3-5003-4ae6-a8c1-c1732e09ef45
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: yXMVavMwI02XBU2zLwiXZA
+    enabled: true
+    invertResult: false
+    order: 2
+    repeat: 1
+    type: Action
+    elementId: VpOwTby5_k22xfDowTscBg
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: xoG7oN_edEq485GiYWctFQ
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 3
+    repeat: 1
+    type: Action
+    elementId: iMe7PHC1BEy-krvZ0QFNtg
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 85da72d0-c5a4-4587-be33-8cb3b5fa7910
+      source: System
+    parameterMaps:
+    - name: text
+      value: ''
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
+  parameters: []
+auxTests: []
+elements:
+- id: VpOwTby5_k22xfDowTscBg
+  name: Tiếp tục
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.Button[@content-desc = 'Tiếp tục']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.Button[1]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.Button[1]
+    priority: 2
+- id: iMe7PHC1BEy-krvZ0QFNtg
+  name: Nhập địa chỉ email của bạn để tiếp tục
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDY
+    name: android.view.View
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.view.View[@content-desc = 'Nhập địa chỉ email của bạn để tiếp tục']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText/android.view.View
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.widget.EditText[1]/android.view.View[1]
+    priority: 2
+projectParameters: []
+addons: []

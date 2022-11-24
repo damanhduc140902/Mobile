@@ -2,13 +2,13 @@ import 'package:date_picker_timeline/date_picker_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:intl/intl.dart';
-import '../components/ButtonPrimary.dart';
-import '../components/InputText1.dart';
-import '../components/InputTextField.dart';
-import '../components/NavigationDrawerWidget.dart';
-import '../components/ScheduleIndex.dart';
-import '../components/SmallHeader.dart';
-import '../components/TitleText1.dart';
+import '../components/button_primary.dart';
+import '../components/input_text_1.dart';
+import '../components/input_textfield.dart';
+import '../components/navigation_drawer.dart';
+import '../components/schedule_index.dart';
+import '../components/small_header.dart';
+import '../components/title_text_1.dart';
 import 'package:money_manager/globals.dart' as globals;
 
 class Reminder extends StatefulWidget {
