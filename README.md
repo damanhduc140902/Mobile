@@ -61,5 +61,8 @@ Tuy nhiên khi chạy test thì vẫn đang bị lỗi. Nhóm đang cố khắc 
 
 - Tương tác giữa các màn
 
+![screen-capture](https://user-images.githubusercontent.com/80797626/203903834-176a9970-6a05-4cf2-a74f-5f9bcb1b0898.gif)
+
+
 
 
